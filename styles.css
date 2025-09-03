@@ -70,6 +70,7 @@ body {
 .cta-button {
     display: inline-block;
     padding: 1rem 2.5rem;
+    margin-top: 1rem;
     background: rgba(255, 255, 255, 0.2);
     color: white;
     text-decoration: none;
@@ -111,12 +112,17 @@ body {
     margin: 0 auto;
 }
 
+.footer-title {
+    color: white;
+    
+}
+
 .section-title {
     text-align: center;
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 3rem;
-    color: #333;
+    color: #f5e2e2;
 }
 
 .features-grid {
